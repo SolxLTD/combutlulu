@@ -1,0 +1,399 @@
+hardware_monitor|a monitor is an output device that displays text images and video.
+hardware_monitor|monitors show visual output from the computer.
+hardware_monitor|monitors are also called visual display units.
+
+hardware_keyboard|a keyboard is an input device used to enter text and commands.
+hardware_keyboard|a keyboard contains keys for letters numbers and symbols.
+hardware_keyboard|keyboards are used to type data into the computer.
+
+hardware_mouse|a mouse is an input device used to control pointer movement.
+hardware_mouse|a mouse allows users to select and interact with screen objects.
+hardware_mouse|mice can be wired or wireless.
+
+hardware_printer|a printer is an output device that produces printed documents.
+hardware_printer|printers convert digital data into paper form.
+hardware_printer|printers can be inkjet laser or dot matrix.
+
+hardware_scanner|a scanner is an input device that converts paper documents into digital form.
+hardware_scanner|scanners capture images and text from physical documents.
+
+hardware_speaker|speakers are output devices that produce sound.
+hardware_speaker|speakers allow users to hear audio output from the computer.
+
+hardware_microphone|a microphone is an input device that captures sound.
+hardware_microphone|microphones convert sound waves into digital signals.
+
+hardware_webcam|a webcam is an input device used to capture video.
+hardware_webcam|webcams are used for video calls and recording.
+
+hardware_ports|ports allow external devices to connect to a computer.
+hardware_ports|common ports include usb hdmi and ethernet.
+
+hardware_usb|usb ports connect peripherals such as flash drives and keyboards.
+hardware_usb|usb allows data transfer and power supply.
+
+hardware_hdmi|hdmi ports transmit audio and video signals.
+hardware_hdmi|hdmi is commonly used to connect monitors and televisions.
+
+memory_cache|cache memory is high speed memory used by the cpu.
+memory_cache|cache memory stores frequently used data.
+memory_cache|cache memory improves processing speed.
+
+memory_virtual|virtual memory uses disk space as extra ram.
+memory_virtual|virtual memory helps run large programs.
+memory_virtual|virtual memory prevents system crashes due to low ram.
+
+storage_optical|optical storage uses laser technology.
+storage_optical|examples of optical storage include cd dvd and blu ray.
+
+storage_usb|usb flash drives provide portable storage.
+storage_usb|usb drives are removable storage devices.
+
+operating_system_functions|the operating system manages input and output devices.
+operating_system_functions|the operating system schedules cpu tasks.
+operating_system_functions|the operating system ensures system security.
+
+user_interface|a user interface allows users to interact with the computer.
+user_interface|graphical user interface uses icons and windows.
+user_interface|command line interface uses text commands.
+
+process_management|process management controls running programs.
+process_management|the operating system allocates cpu time to processes.
+
+file_management|file management organizes files and folders.
+file_management|the operating system controls file access and storage.
+
+device_driver|a device driver allows hardware to communicate with software.
+device_driver|drivers are required for printers graphics and audio devices.
+
+programming_language|a programming language is used to write software.
+programming_language|examples include python java and c.
+programming_language|programming languages give instructions to computers.
+
+compiler|a compiler translates high level code into machine code.
+compiler|compiled programs run faster.
+
+interpreter|an interpreter executes code line by line.
+interpreter|interpreted languages are easier to debug.
+
+network_types|lan is a local area network.
+network_types|wan is a wide area network.
+network_types|man is a metropolitan area network.
+
+network_devices|routers forward data between networks.
+network_devices|switches connect devices within a network.
+
+internet_services|email allows sending digital messages.
+internet_services|ftp allows file transfer over the internet.
+
+cyber_security|cyber security protects digital systems and data.
+cyber_security|strong passwords improve security.
+
+encryption|encryption converts data into unreadable form.
+encryption|encryption protects sensitive information.
+
+authentication|authentication verifies user identity.
+authentication|usernames and passwords are authentication methods.
+
+virtualization|virtualization allows multiple systems on one computer.
+virtualization|virtual machines run independent operating systems.
+
+cloud_models|public cloud services are shared online resources.
+cloud_models|private cloud services are dedicated to one organization.
+
+cloud_services|saas provides software over the internet.
+cloud_services|paas provides development platforms.
+cloud_services|iaas provides virtual hardware resources.
+
+data|data is raw facts and figures.
+information|information is processed data.
+information|information has meaning and value.
+
+computer_types|desktop computers are used at fixed locations.
+computer_types|laptops are portable computers.
+computer_types|tablets are touch based computers.
+computer_types|servers provide services to other computers.
+
+performance|computer performance depends on cpu ram and storage.
+performance|faster processors improve system speed.
+
+algorithm|an algorithm is a step by step procedure to solve a problem.
+algorithm|algorithms are used to process data efficiently.
+algorithm|algorithms must be clear and finite.
+
+data_structure|a data structure organizes data in memory.
+data_structure|data structures improve data access and storage.
+data_structure|examples include arrays stacks and queues.
+
+array|an array stores multiple values in a single variable.
+array|array elements are accessed using index numbers.
+
+stack|a stack follows last in first out order.
+stack|push adds data to a stack.
+stack|pop removes data from a stack.
+
+queue|a queue follows first in first out order.
+queue|queues process data in sequence.
+
+database|a database stores organized information.
+database|databases allow efficient data retrieval.
+database|databases use tables rows and columns.
+
+database_types|relational databases store data in tables.
+database_types|nosql databases store unstructured data.
+
+sql|sql is used to manage databases.
+sql|sql allows data insertion deletion and querying.
+
+operating_modes|batch processing executes jobs in groups.
+operating_modes|time sharing allows multiple users simultaneously.
+
+process|a process is a running program.
+process|processes require cpu time and memory.
+
+thread|a thread is a lightweight process.
+thread|threads allow multitasking within a program.
+
+concurrency|concurrency allows multiple tasks to run together.
+concurrency|concurrency improves system efficiency.
+
+deadlock|deadlock occurs when processes wait indefinitely.
+deadlock|deadlock causes system freeze.
+
+software_testing|software testing checks program correctness.
+software_testing|testing finds errors before deployment.
+
+debugging|debugging is the process of fixing errors.
+debugging|debugging improves software reliability.
+
+software_development|software development follows structured steps.
+software_development|planning design coding and testing are stages.
+
+software_models|waterfall model follows sequential steps.
+software_models|agile model supports continuous improvement.
+
+version_control|version control tracks code changes.
+version_control|git is a version control system.
+
+open_source|open source software allows free modification.
+open_source|linux is open source software.
+
+proprietary_software|proprietary software has restricted access.
+proprietary_software|windows is proprietary software.
+
+computer_graphics|computer graphics generate visual content.
+computer_graphics|graphics are used in games and design.
+
+multimedia|multimedia combines text audio video and images.
+multimedia|multimedia enhances user experience.
+
+artificial_intelligence|artificial intelligence enables machines to think.
+artificial_intelligence|ai systems learn from data.
+
+machine_learning|machine learning allows systems to learn automatically.
+machine_learning|machine learning improves prediction accuracy.
+
+data_science|data science analyzes large datasets.
+data_science|data science extracts useful insights.
+
+big_data|big data refers to large complex datasets.
+big_data|big data requires special processing tools.
+
+computer_ethics|computer ethics guides responsible technology use.
+computer_ethics|ethical computing avoids misuse of data.
+
+digital_literacy|digital literacy is the ability to use computers.
+digital_literacy|digital skills are essential in modern society.
+
+human_computer_interaction|hci studies user interaction with computers.
+human_computer_interaction|good design improves usability.
+
+embedded_system|embedded systems perform dedicated functions.
+embedded_system|embedded systems are used in appliances.
+
+real_time_system|real time systems respond immediately.
+real_time_system|real time systems are used in medical devices.
+
+mobile_computing|mobile computing enables portable computing.
+mobile_computing|smartphones are mobile computing devices.
+
+wearable_computing|wearable devices are worn on the body.
+wearable_computing|smartwatches are wearable computers.
+
+iot|internet of things connects devices to the internet.
+iot|iot devices collect and share data.
+
+robotics|robotics combines hardware and software.
+robotics|robots perform automated tasks.
+
+simulation|simulation models real world systems.
+simulation|simulations are used for training and research.
+
+numerical_computation|numerical computation solves mathematical problems.
+numerical_computation|computers perform fast calculations.
+
+computer_architecture|computer architecture defines system structure.
+computer_architecture|architecture affects performance and efficiency.
+
+instruction_set|instruction sets define cpu commands.
+instruction_set|cpus execute machine instructions.
+
+clock_speed|clock speed measures cpu performance.
+clock_speed|higher clock speed means faster execution.
+
+parallel_processing|parallel processing executes tasks simultaneously.
+parallel_processing|parallel systems improve speed.
+
+fault_tolerance|fault tolerance allows systems to recover from errors.
+fault_tolerance|reliable systems prevent failures.
+
+programming|programming is the process of writing instructions for computers.
+programming|programs are written using programming languages.
+programming|programming solves problems using logic.
+
+programming_language|a programming language is used to communicate with a computer.
+programming_language|languages define syntax and rules.
+programming_language|examples include python java and c.
+
+high_level_language|high level languages are easy to understand.
+high_level_language|python is a high level language.
+high_level_language|high level languages are user friendly.
+
+low_level_language|low level languages interact directly with hardware.
+low_level_language|assembly language is a low level language.
+low_level_language|low level languages are hardware dependent.
+
+compiler|a compiler converts source code into machine code.
+compiler|compiled programs run faster.
+compiler|errors are detected during compilation.
+
+interpreter|an interpreter executes code line by line.
+interpreter|python uses an interpreter.
+interpreter|interpreted programs are easier to debug.
+
+syntax_error|syntax errors occur due to incorrect grammar.
+syntax_error|syntax errors prevent program execution.
+
+runtime_error|runtime errors occur during execution.
+runtime_error|runtime errors crash programs.
+
+logic_error|logic errors produce incorrect results.
+logic_error|logic errors do not stop program execution.
+
+variable|a variable stores data in memory.
+variable|variables have names and values.
+
+data_type|data types define the type of data.
+data_type|common data types include integer and string.
+
+integer|integer stores whole numbers.
+integer|integers do not include decimals.
+
+float|float stores decimal numbers.
+float|floats support precision values.
+
+string|string stores text data.
+string|strings are enclosed in quotes.
+
+boolean|boolean stores true or false values.
+boolean|booleans are used in decision making.
+
+operator|operators perform operations on data.
+operator|operators include arithmetic and logical types.
+
+conditional_statement|conditional statements make decisions.
+conditional_statement|if else statements control program flow.
+
+loop|loops repeat instructions.
+loop|loops reduce repetitive code.
+
+for_loop|for loops repeat a fixed number of times.
+while_loop|while loops repeat based on conditions.
+
+function|a function is a reusable block of code.
+function|functions improve code organization.
+
+parameter|parameters pass data into functions.
+return_statement|return sends data back from a function.
+
+object_oriented_programming|oop organizes code using objects.
+object_oriented_programming|oop improves modularity.
+
+class|a class is a blueprint for objects.
+object|an object is an instance of a class.
+
+encapsulation|encapsulation hides internal data.
+inheritance|inheritance allows code reuse.
+polymorphism|polymorphism allows multiple behaviors.
+
+operating_system_types|single user systems support one user.
+operating_system_types|multi user systems support multiple users.
+
+kernel|the kernel is the core of an operating system.
+kernel|the kernel manages hardware resources.
+
+process_scheduling|scheduling decides process execution order.
+process_scheduling|schedulers improve cpu utilization.
+
+memory_management|memory management allocates ram.
+memory_management|virtual memory extends ram usage.
+
+paging|paging divides memory into pages.
+paging|paging reduces fragmentation.
+
+file_management|file systems organize stored data.
+file_management|files are stored in directories.
+
+access_control|access control restricts system usage.
+access_control|permissions protect data.
+
+network_topology|network topology defines layout.
+network_topology|star topology uses a central hub.
+network_topology|bus topology uses a shared cable.
+
+network_device|routers connect different networks.
+network_device|switches connect devices within a network.
+
+ip_address|an ip address identifies devices.
+ip_address|ipv4 and ipv6 are address types.
+
+protocol|protocols define communication rules.
+protocol|tcp ensures reliable transmission.
+protocol|udp supports fast communication.
+
+web_technology|web technology enables online applications.
+web_technology|websites use html css and javascript.
+
+http|http transfers web data.
+https|https secures web communication.
+
+server|a server provides services to clients.
+client|a client requests services from a server.
+
+cloud_models|iaas provides infrastructure services.
+cloud_models|paas provides development platforms.
+cloud_models|saas provides ready applications.
+
+virtualization|virtualization allows multiple systems on one machine.
+virtualization|virtual machines improve efficiency.
+
+cyber_security|cyber security protects digital systems.
+cyber_security|encryption secures data.
+
+encryption|encryption converts data into secure form.
+encryption|encrypted data requires a key.
+
+authentication|authentication verifies user identity.
+authorization|authorization grants access rights.
+
+software_license|licenses define software usage.
+software_license|free software allows redistribution.
+
+computer_maintenance|maintenance improves system lifespan.
+computer_maintenance|updates fix bugs and vulnerabilities.
+
+performance|performance measures system efficiency.
+performance|optimization improves speed.
+
+troubleshooting|troubleshooting identifies problems.
+troubleshooting|diagnostics help detect faults.
