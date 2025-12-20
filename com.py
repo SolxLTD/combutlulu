@@ -8,29 +8,6 @@ st.set_page_config(
     page_title="👋🏻 Hi WelcomeTo Combot Your Offline Computer Chatbot",
     layout="centered"
 )
-
-st.markdown("""
-<style>
-.title {
-    color: #4fc3f7;
-    font-size: 32px;
-    font-weight: bold;
-}
-.user {
-    color: #0d47a1;
-    font-weight: bold;
-}
-.bot {
-    color: #ff9800;
-    font-weight: bold;
-}
-</style>
-""", unsafe_allow_html=True)
-
-st.markdown("<div class='title'>👋🏻 Hi Welcome To Combot Your Offline Computer Chatbot</div>", unsafe_allow_html=True)
-st.write("Ask any **computer-related question**. Answers come from local knowledge only.")
-
-
 @st.cache_data
 def load_knowledge():
     topics, sentences = [], []
@@ -116,3 +93,4 @@ for speaker, text in st.session_state.history:
         st.markdown(f"<span class='user'>🧑 You:</span> {text}", unsafe_allow_html=True)
     else:
         st.markdown(f"<span class='bot'>🤖 Bot:</span> {text}", unsafe_allow_html=True)
+
